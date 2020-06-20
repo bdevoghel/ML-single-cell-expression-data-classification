@@ -39,6 +39,8 @@ $BCR = \frac{1}{2} (TPR + TNR) = \frac{1}{2} (\frac{TP}{TP + FN} + \frac{TN}{TN 
 <img src="classification_metrics-info_chart.png" alt="classification metrics info chart" width="400"/>
 </center>
 
+Image taken from [towards data science](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28) .
+
 
 ## Obtained results
 
