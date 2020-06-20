@@ -22,7 +22,8 @@ Different models were evaluated against each other
 * Multi-Layer Perceptron (MLP)
 * Random Forest (RF)
 * Support Vector Machine (SVC)
-* Optimal tree learning (DL8.5)
+* Ensemble classifiers (AdaBoost)
+* Optimal tree learning (DL8.5) - WIP
 
 In particular, DL8.5 was explored in an attempt to improve the classification score.
 DL8.5 is an algorithm for finding optimal decision trees under constraints.
@@ -44,9 +45,7 @@ Image taken from [towards data science](https://towardsdatascience.com/handling-
 
 ## Obtained results
 
-??
-<!-- For the original competition, a simple MLP (multi layer perceptron) classifier was used and obtained a BRC of about 74%. Some DTs (decision tree), RFs (random forest) and their boosted versions went up to 82% (!?).
-With DL8.5 (and more time after the competition), a BRC of (??) could be obtained, without compromises on the training time (on the contrary, it is even faster). This proves the benefit of DL8.5 over other classifiers. -->
+`<`Work in progress`>`
 
 
 ## Further remarks
